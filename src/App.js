@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>CICD Demo App</h1>
+      <p>This is newly added paragraph</p>
     </div>
   );
 }
